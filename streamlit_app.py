@@ -1,6 +1,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
-
+# App title
+st.set_page_config(page_title="🦙💬 kRISHA KA Chatbot")
 meta_tags = """
 <head>
     <meta property="og:title" content="PaperRound: AI News Curator">
